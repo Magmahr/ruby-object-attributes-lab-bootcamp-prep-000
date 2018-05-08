@@ -1,9 +1,6 @@
 class Dog
-  dog = Dog.new(name)
-  dog
-  
-  
-  def name
+
+  def name()
     @name
   end  
   
